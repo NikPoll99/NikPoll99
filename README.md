@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nicolas 👋
 
-<!--
-**NikPoll99/NikPoll99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer interested in **robotics, artificial intelligence, and intelligent systems**. I enjoy working on projects that connect software with real-world applications, from robot simulation to machine learning.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Collaborative Human-Aware Robotic Manipulation](https://github.com/NikPoll99/Collaborative-Human-Aware-Robotic-Manipulation)**  
+  ROS 2 and Gazebo simulation of a collaborative human–robot task.
+
+- **[GNN Goal Recognition](https://github.com/NikPoll99/GNN_goal_recognition)**  
+  Tools for generating and visualizing path datasets, with experiments in goal recognition using Graph Neural Networks.
+
+- **[DTblocklyGPT](https://github.com/NikPoll99/DTblocklyGPT)**  
+  Prototype combining Blockly and conversational AI for end-user robot-task programming.
+
+- **[DogGo Mobile App](https://github.com/NikPoll99/DogGo_mobile_app)**  
+  Android application project built with Kotlin.
+
+## Technologies
+
+Python · ROS 2 · Gazebo · Graph Neural Networks · PyTorch Geometric · Kotlin · TypeScript
+
+## Get in touch
+
+Feel free to explore my repositories or contact me about opportunities in robotics, AI, and software development.
