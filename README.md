@@ -10,15 +10,8 @@ I'm a software developer interested in **robotics, artificial intelligence, and 
 - **[GNN Goal Recognition](https://github.com/NikPoll99/GNN_goal_recognition)**  
   Tools for generating and visualizing path datasets, with experiments in goal recognition using Graph Neural Networks.
 
-- **[DTblocklyGPT](https://github.com/NikPoll99/DTblocklyGPT)**  
-  Prototype combining Blockly and conversational AI for end-user robot-task programming.
-
 - **[DogGo Mobile App](https://github.com/NikPoll99/DogGo_mobile_app)**  
   Android application project built with Kotlin.
-
-## Technologies
-
-Python · ROS 2 · Gazebo · Graph Neural Networks · PyTorch Geometric · Kotlin · TypeScript
 
 ## Get in touch
 
